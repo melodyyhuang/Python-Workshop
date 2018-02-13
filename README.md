@@ -1,5 +1,5 @@
 # Python-Workshop
-Material for Python Workshops for UCLA MAE program.
+Material for Python Workshops for UCLA Masters of Applied Economics program.
 
 More material will be added incrementally as time goes on. 
 
@@ -11,4 +11,6 @@ NumPy Tutorials:
 * [Tutorial 1](https://www.datacamp.com/community/tutorials/python-numpy-tutorial )
 * [Tutorial 2](http://cs231n.github.io/python-numpy-tutorial/)
 
-
+SQLite Tutorials: 
+* [Referenced in Notebook](http://sebastianraschka.com/Articles/2014_sqlite_in_python_tutorial.html)
+* [Zetcode](http://zetcode.com/db/sqlite/)
