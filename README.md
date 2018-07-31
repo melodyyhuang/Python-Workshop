@@ -1,5 +1,5 @@
 # Python-Workshop
-Material for Python Workshops for UCLA Masters of Applied Economics program.
+Material for Python Workshops for UCLA Masters of Applied Economics program (Winter 2018).
 
 More material will be added incrementally as time goes on. 
 
