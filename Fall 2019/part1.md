@@ -120,7 +120,7 @@ def df4(x):
 
 
 
-#### Exercise 8..
+#### Exercise 8.
 
 Write code that counts each term in a given document by looping through each word in the document. You may, for simplicity, assume that a document is represented in a string. Return the data in a dictionary form, where the keys are the words, and the values correspond to the counts. 
 
