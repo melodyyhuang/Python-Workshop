@@ -1,6 +1,6 @@
 
 
-# Python Workshop 
+# Python Workshop Part 1
 
 #### Installation 
 
@@ -10,32 +10,32 @@ Note: you are free to use Python 2 or 3. However, the bootcamp examples will be 
 
 ------
 
-**Pedagogical Note:** Some of these questions will be harder than others. Try your best. The goal is to try and understand the problems, and learn how the basics of Python. 
+**Pedagogical Note:** Some of these questions will be harder than others. Try your best. The goal is to try and understand the problems, and learn how the basics of Python work. 
 
 ------
 
-#### Day 1 Basics
+### Day 1 Basics
 
-##### Exercise 1. 
+#### Exercise 1. 
 
 Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5,
 between 2000 and 3200 (both included).
 
 
 
-##### Exercise 2. 
+#### Exercise 2. 
 
 Write a function that returns the maximum of two numbers.
 
 
 
-##### Exercise 3. 
+#### Exercise 3. 
 
 Write a function that takes in a list of values and returns `True` if the first element and last element are the same, and `False` otherwise. 
 
 
 
-##### Exercise 4.
+#### Exercise 4.
 
 Recall the quadratic formula: 
 $$
@@ -49,7 +49,7 @@ Hint: In Python, to raise a quantity by power `n`, we use double asteriks: `**`.
 
 
 
-##### Exercise 5.
+#### Exercise 5.
 
 Write a function to return the factorial of a given number (named `myFactorial`). (Do not use a built in function to calculate.)
 
@@ -57,7 +57,7 @@ Hint: Recall that the `range()` function will automatically begin indexing at ze
 
 
 
-##### Exercise 6. 
+#### Exercise 6. 
 
 Write a function `pig_latin` to translate each word from a sentence into pig latin. In other words, when given a word, the function will take the first vowell and move the first part of the word before the vowel to the end, and adds "ay" to it. 
 
@@ -80,7 +80,7 @@ Hint: it may be helpful to break this up into several steps. For example,first, 
 
 
 
-##### Exercise 7.
+#### Exercise 7.
 
 In economics and life, we often need to solve for $x$ when some arbitrary $f(x) = 0$. 
 
@@ -120,7 +120,7 @@ def df4(x):
 
 
 
-##### Exercise 8..
+#### Exercise 8..
 
 Write code that counts each term in a given document by looping through each word in the document. You may, for simplicity, assume that a document is represented in a string. Return the data in a dictionary form, where the keys are the words, and the values correspond to the counts. 
 
