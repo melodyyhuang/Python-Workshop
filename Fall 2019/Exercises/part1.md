@@ -85,7 +85,7 @@ Hint: it may be helpful to break this up into several steps. For example,first, 
 In economics and life, we often need to solve for $x$ when some arbitrary $f(x) = 0$. 
 
 Write a function such that: 
-Given some $f(x)$, an initial guess $x_0$, and a desired tolerance for error $\varepsilon$ (where $|f(x)| \leq \varepsilon$), 
+Given some $f(x)$, an initial guess $x_0$, and a desired tolerance for error $\varepsilon$ (where $|f(x) - f(x_0)| \leq \varepsilon$), 
 then the function will perform the following: 
 
 1. Calculate the error of the guess $f(x_0)$. 
