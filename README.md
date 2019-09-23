@@ -1,5 +1,5 @@
 # Python-Workshop
-Material for Python Workshops for UCLA Masters of Applied Economics program (Winter 2018, Fall 2018). These should serve as a very gentle introduction to Python. Most of this is written for Python 3. 
+Material for Python Workshops for UCLA Masters of Applied Economics program (Winter 2018, Fall 2018/2019). These should serve as a very gentle introduction to Python. Most of this is written for Python 3. 
 
 More material will be uploaded through time. There is a non-trivial probability that there exist typos; please email me if you find any (m.huang@ucla.edu). 
 
