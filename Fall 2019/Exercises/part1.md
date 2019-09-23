@@ -6,7 +6,7 @@
 
 Recommended: install the Anaconda Distribution (link: https://docs.anaconda.com/anaconda/). Please follow the Installation instructions for Python 3 and run the following examples in the Getting Started section (link: https://docs.anaconda.com/anaconda/user-guide/getting-started/). 
 
-Note: you are free to use Python 2 or 3. However, the bootcamp examples will be done in Python 3. 
+Note: you are free to use Python 2 or 3. However, the examples (and solutions) will be done in Python 3. 
 
 ------
 
