@@ -155,13 +155,3 @@ Pick some stocks of your choice and calculate the following.
 a. Compute the percent changes of the prices. 
 
 b. Calculate the covariance and correlation matrices of these stocks. 
-
-------
-
-#### Sources
-
-1. Python for Data Analysis 
-2. University of Washington, CSE 160 - Data Programming
-3. UCLA, PIC 16 - Python (Matt Haberland)
-4. [NumPy 100 Exercise Bank](https://www.machinelearningplus.com/python/101-numpy-exercises-python/) (Solutions borrowed from `rougier` ([link](https://github.com/rougier/numpy-100)).)
-5. [Python 101 Exercise Bank](https://www.machinelearningplus.com/python/101-pandas-exercises-python/) 
